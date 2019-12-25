@@ -3,3 +3,4 @@ Red Orange
 Vibgyor
 
 Blue,Peach, Rose
+Purple
